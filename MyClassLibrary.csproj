@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Prog_124_W23_Final">
+      <HintPath>..\programming-124-w23-final-BanderSaleh\Prog_124_W23_Final\bin\Debug\net6.0-windows\Prog_124_W23_Final.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
